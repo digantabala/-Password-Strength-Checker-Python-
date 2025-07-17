@@ -5,9 +5,9 @@ This is a simple Python-based Password Strength Checker tool that evaluates the 
 Evaluates password strength as Very Weak, Weak, Moderate, Strong, or Very Strong
 
 Analyzes:
-Password length
-Presence of uppercase and lowercase letters
-Presence of digits
-Use of special characters
-Provides user-friendly recommendations for improving weak passwords
+Password length,
+Presence of uppercase and lowercase letters,
+Presence of digits,
+Use of special characters,
+Provides user-friendly recommendations for improving weak passwords,
 Interactive command-line interface
